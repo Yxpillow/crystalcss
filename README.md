@@ -1,7 +1,7 @@
 # Crystal CSS Framework
 
 <div align="center">
-  <img src="assets/crystal-logo.png" alt="Crystal CSS Logo" width="200">
+
   
   [![GitHub release](https://img.shields.io/github/release/Yxpillow/crystalcss.svg)](https://github.com/Yxpillow/crystalcss/releases)
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
